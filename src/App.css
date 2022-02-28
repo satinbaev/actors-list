@@ -10,6 +10,9 @@
   align-items: center;
   margin: 2% auto;
 }
+.App h4{
+  background-color: rgb(241, 241, 241);
+}
 .page-search-wrapper{
   width: 100%;
   display: flex;
